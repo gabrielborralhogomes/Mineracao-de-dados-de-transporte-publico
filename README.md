@@ -4,4 +4,4 @@ O objetivo deste trabalho é formatar um dataset de fluxo de usuários de um sis
 
 Uma vez de posse desses dados, pode-se aplicar aprendizado de máquina para identificar a probabilidade e o risco de infecção a partir de parâmetros como estações de entrada e saída, dia da semana e horário. Esses cálculos devem levar e consideração a quantidade de pessoas que compartilham um dado espaço físico (estação) em um dado momento (dia e hora).
 
-Para saber mais leia o relatório.
+Para saber mais leia o [relatório](https://github.com/gabrielborralhogomes/Mineracao-de-dados-de-transporte-publico/blob/main/Relatorio.pdf).
